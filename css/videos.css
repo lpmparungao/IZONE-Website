@@ -1,0 +1,43 @@
+html
+{
+  background-color: rgb(75,0,130, 0.7);
+}
+
+.izone
+{
+  font-size: 1.75em;
+  color: #fff;
+  position: fixed;
+  top:24px;
+  left:24px;
+  text-decoration: none;
+}
+
+.container
+{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+  padding-left: 250px;
+}
+
+h2
+{
+  font-family: arial;
+  color: white;
+  font-size: 2em;
+}
+
+.titles
+{
+  padding-top: 20px;
+}
+
+#main-footer
+{
+  font-size: .75em;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  margin-top: 60px;
+}

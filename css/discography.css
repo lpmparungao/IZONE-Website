@@ -1,0 +1,67 @@
+html
+{
+  background-color: rgb(75,0,130, 0.7);
+}
+
+.izone
+{
+  font-size: 1.75em;
+  color: #fff;
+  position: fixed;
+  top:24px;
+  left:24px;
+  text-decoration: none;
+}
+
+.container
+{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+#main
+{
+    margin-top: 0px;
+    float: left;
+    box-sizing: border-box;
+    position: relative;
+}
+
+img
+{
+  padding-top: 50px;
+  width: 600px;
+  height: 600px;
+}
+
+#sidebar
+{
+  font-family: Arial;
+  margin-top: 125px;
+  float: right;
+  width: 40%;
+  color: #fff;
+  padding: 10px 0;
+  box-sizing: border-box;
+}
+
+.songs
+{
+  list-style-type: decimal-leading-zero;
+  padding-top: -20px;
+}
+
+li
+{
+  padding-top: 25px;
+}
+
+#main-footer
+{
+  font-size: .75em;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  margin-top: 60px;
+}

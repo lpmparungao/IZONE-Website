@@ -1,0 +1,452 @@
+html
+{
+  background-color: rgb(75,0,130, 0.7);
+}
+.container
+{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+.clr
+{
+  clear: both;
+}
+
+.izone
+{
+  font-size: 1.75em;
+  color: #fff;
+  position: fixed;
+  top:24px;
+  left:24px;
+  text-decoration: none;
+}
+
+.main-header
+{
+  opacity: 0.85;
+  background-image: url('../images/OD/crop.jpg');
+  background-position: center;
+  min-height: 700px;
+  margin-bottom: 60px;
+  margin-top: -100px;
+  text-align: center;
+  font-size: 6em;
+}
+
+.main-header h1
+{
+  color: #fff;
+  line-height: 1em;
+  padding-top: 200px;
+}
+
+#navbar
+{
+  background-color: rgb(75,0,130, 0.9);
+}
+#navbar ul
+{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+#navbar li
+{
+display: inline;
+padding: 20px 20px 20px 0;
+}
+
+#navbar a
+{
+  color: #fff;
+  padding-left: 20px;
+  text-decoration: none;
+  text-align: center;
+  font-size:2.5em;
+  box-sizing: border-box;
+}
+
+.main
+{
+  margin-top: 80px;
+  float: left;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.main2
+{
+  margin-top: 80px;
+  float: right;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.sidebar
+{
+  margin-top: 125px;
+  float: right;
+  width: 40%;
+  color: #fff;
+  padding: 0 30px;
+  box-sizing: border-box;
+}
+
+.sidebar2
+{
+  margin-top: 125px;
+  float: left;
+  width: 40%;
+  color: #fff;
+  padding: 0 30px;
+  box-sizing: border-box;
+}
+
+.detailseunbi
+{
+  list-style: none;
+  background-color: rgba(41, 5, 67, 0.3);
+  border-radius: 15px;
+}
+
+.nameeunbi h2
+{
+  font-size: 1.6em;
+  text-align: center;
+  padding: 8px 0px;
+  margin-bottom: -10px;
+  background-color: rgba(41, 5, 67, 0.4);
+  border-radius: 15px;
+}
+
+.detailssakura
+{
+  list-style: none;
+  background-color: rgba(255, 209, 220, 0.9);
+  border-radius: 15px;
+}
+
+.namesakura h2
+{
+  font-size: 1.6em;
+  text-align: center;
+  padding: 8px 0px;
+  margin-bottom: -10px;
+  background-color: rgba(255, 209, 220, 0.8);
+  border-radius: 5px;
+}
+
+.detailshyewon
+{
+  list-style: none;
+  background-color: rgba(248, 131, 121, 0.9);
+  border-radius: 15px;
+}
+
+.namehyewon h2
+{
+  font-size: 1.6em;
+  text-align: center;
+  padding: 8px 0px;
+  margin-bottom: -10px;
+  background-color: rgba(248, 131, 121, 0.7);
+  border-radius: 15px;
+}
+
+.detailsyena
+{
+  list-style: none;
+  background-color: rgba(255, 245, 0, 0.8);
+  border-radius: 15px;
+}
+
+.nameyena h2
+{
+  font-size: 1.6em;
+  text-align: center;
+  padding: 8px 0px;
+  margin-bottom: -10px;
+  background-color: rgba(255, 245, 0, 0.7);
+  border-radius: 15px;
+}
+
+.detailschaeyeon
+{
+  list-style: none;
+  background-color: rgba(219, 254, 248, 0.9);
+  border-radius: 15px;
+  color:black;
+}
+
+.namechaeyeon h2
+{
+  font-size: 1.6em;
+  text-align: center;
+  padding: 8px 0px;
+  margin-bottom: -10px;
+  background-color: rgba(219, 254, 248, 0.8);
+  border-radius: 15px;
+  color:black;
+}
+
+.detailschaewon
+{
+  list-style: none;
+  background-color: rgba(170, 240, 209, 0.9);
+  border-radius: 15px;
+}
+
+.namechaewon h2
+{
+  font-size: 1.6em;
+  text-align: center;
+  padding: 8px 0px;
+  margin-bottom: -10px;
+  background-color: rgba(170, 240, 209, 0.8);
+  border-radius: 15px;
+}
+
+.detailsminju
+{
+  list-style: none;
+  background-color:  rgba(255,255,255, 0.95);
+  border-radius: 15px;
+  color: black;
+}
+
+.nameminju h2
+{
+  font-size: 1.6em;
+  text-align: center;
+  padding: 8px 0px;
+  margin-bottom: -10px;
+  background-color:  rgba(255,255,255, 0.9);
+  border-radius: 15px;
+  color:black;
+}
+
+.detailsnako
+{
+  list-style: none;
+  background-color: rgba(135,206,235);
+  border-radius: 15px;
+}
+
+.namenako h2
+{
+  font-size: 1.6em;
+  text-align: center;
+  padding: 8px 0px;
+  margin-bottom: -10px;
+  background-color: rgba(135,206,235, 0.9);
+  border-radius: 15px;
+}
+
+.detailshitomi
+{
+  list-style: none;
+  background-color: rgba(255,229,180, 0.9);
+  border-radius: 15px;
+}
+
+.namehitomi h2
+{
+  font-size: 1.6em;
+  text-align: center;
+  padding: 8px 0px;
+  margin-bottom: -10px;
+  background-color: rgba(255,229,180, 0.8);
+  border-radius: 15px;
+}
+
+.detailsyuri
+{
+  list-style: none;
+  background-color: rgba(255,165,0, 0.9);
+  border-radius: 15px;
+}
+
+.nameyuri h2
+{
+  font-size: 1.6em;
+  text-align: center;
+  padding: 8px 0px;
+  margin-bottom: -10px;
+  background-color: rgba(255,165,0, 0.8);
+  border-radius: 15px;
+}
+
+.detailsyujin
+{
+  list-style: none;
+  background-color: rgba(0, 0, 255, 0.4);
+  border-radius: 15px;
+}
+
+.nameyujin h2
+{
+  font-size: 1.6em;
+  text-align: center;
+  padding: 8px 0px;
+  margin-bottom: -10px;
+  background-color: rgba(0, 0, 255, 0.3);
+  border-radius: 15px;
+}
+
+.detailswonyoung
+{
+  list-style: none;
+  background-color: rgba(255,192,203, 0.9);
+  border-radius: 15px;
+}
+
+.namewonyoung h2
+{
+  font-size: 1.6em;
+  text-align: center;
+  padding: 8px 0px;
+  margin-bottom: -10px;
+  background-color: rgba(255,192,203, 0.8);
+  border-radius: 15px;
+}
+
+.profile li
+{
+    padding: 8px;
+    font-size: 20px;
+
+}
+
+.eunbipic
+{
+  width: 600px;
+  height: 450px;
+  background-image: url('../images/OD/official-photo-3-eunbi.jpg');
+  background-size: contain;
+  background-position: left;
+}
+
+.sakurapic
+{
+  width: 675px;
+  height: 450px;
+  background-image: url('../images/OD/official-photo-3-sakura.jpg');
+  background-size: contain;
+}
+
+.hyewonpic
+{
+  width: 675px;
+  height: 450px;
+  background-image: url('../images/OD/official-photo-3-hyewon.jpg');
+  background-size: contain;
+}
+
+.yenapic
+{
+  width: 675px;
+  height: 450px;
+  background-image: url('../images/OD/official-photo-3-yena.jpg');
+  background-size: contain;
+}
+
+.chaeyeonpic
+{
+  width: 675px;
+  height: 450px;
+  background-image: url('../images/OD/official-photo-3-chaeyeon.jpg');
+  background-size: contain;
+}
+
+.chaewonpic
+{
+  width: 675px;
+  height: 450px;
+  background-image: url('../images/OD/official-photo-3-chaewon.jpg');
+  background-size: contain;
+}
+
+.minjupic
+{
+  width: 675px;
+  height: 450px;
+  background-image: url('../images/OD/official-photo-3-minju.jpg');
+  background-size: contain;
+}
+
+.nakopic
+{
+  width: 600px;
+  height: 450px;
+  background-image: url('../images/OD/official-photo-3-nako.jpg');
+  background-size: contain;
+}
+
+.hitomipic
+{
+  width: 600px;
+  height: 450px;
+  background-image: url('../images/OD/official-photo-3-hitomi.jpg');
+  background-size: contain;
+}
+
+.yuripic
+{
+  width: 675px;
+  height: 450px;
+  background-image: url('../images/OD/official-photo-3-yuri.jpg');
+  background-size: contain;
+}
+
+.yujinpic
+{
+  width: 675px;
+  height: 450px;
+  background-image: url('../images/OD/official-photo-3-yujin.jpg');
+  background-size: contain;
+}
+
+.wonyoungpic
+{
+  width: 600px;
+  height: 450px;
+  background-image: url('../images/OD/official-photo-3-wonyoung.jpg');
+  background-size: contain;
+}
+
+#main-footer
+{
+  font-size: .75em;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+@media (max-width:800px)
+{
+  .main
+  {
+    width: 100%;
+    float: none;
+  }
+  .sidebar
+  {
+    width: 100%;
+    float: none;
+  }
+  .main2
+  {
+    width: 100%;
+    float: none;
+  }
+  .sidebar2
+  {
+    width: 100%;
+    float: none;
+  }
+}
