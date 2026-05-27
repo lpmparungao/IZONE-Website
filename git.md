@@ -40,6 +40,7 @@ feature-login
 ```
 <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/4f1c252e-0354-4386-9be2-289177842e43" />
 <img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/d9c64f36-7043-4f20-8a68-388122553c16" />
+<img width="1912" height="1037" alt="image" src="https://github.com/user-attachments/assets/c78eda47-3fd9-44ec-8fb4-5fb09537f0a4" />
 <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/b16d5f57-07d5-4f82-bee4-fea498a494e6" />
 ---
 ## 2. Finish Work → Merge to Development
