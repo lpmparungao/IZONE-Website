@@ -156,18 +156,6 @@ Then:
 
 ---
 
-# Example Flow
-
-```text
-main
- └── development
-      ├── feature-login
-      ├── feature-dashboard
-      └── release/v1.1.0
-```
-
----
-
 # Recommended Rules
 
 - Never commit directly to `main`
