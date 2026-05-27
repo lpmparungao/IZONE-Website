@@ -17,11 +17,6 @@
 - Temporary QA + stabilization branch
 - Created only when preparing a release
 
-Example:
-```bash
-release/v1.1.0
-```
-
 ---
 
 # Workflow
