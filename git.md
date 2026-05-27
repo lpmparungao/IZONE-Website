@@ -66,7 +66,7 @@ Create a release branch:
 ```bash
 development → release/v1.1.0
 ```
-<img width="1889" height="940" alt="image" src="https://github.com/user-attachments/assets/3cd4d721-8848-47a1-baf8-5465d55bd805" />
+<img width="1888" height="934" alt="image" src="https://github.com/user-attachments/assets/498f0905-a87f-4a6e-bfb4-a5ee26a54055" />
 <img width="1884" height="898" alt="image" src="https://github.com/user-attachments/assets/4d960eaf-5c48-472f-b304-3a1b5e0f10ed" />
 <img width="1895" height="936" alt="image" src="https://github.com/user-attachments/assets/06293865-e8be-484c-a308-e9568ceac8cf" />
 ---
